@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/PGSV4TV/editors-Insight2.png",
+      "title": "Breaking News: Major Event Occurs",
+      "category": "Breaking",
+      "datePosted": "2023-10-03"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/q7HGVm4/editors-Insight1.png",
+      "title": "Economy Update: Stock Market Surges",
+      "category": "Economy",
+      "datePosted": "2023-10-02"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/s6zN3w7/2.png",
+      "title": "Technology Advancement: New Gadgets Unveiled",
+      "category": "Technology",
+      "datePosted": "2023-10-01"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/31dtC9m/3.png",
+      "title": "Sports Highlights: Team Wins Championship",
+      "category": "Sports",
+      "datePosted": "2023-09-30"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/sWC39J0/1.png",
+      "title": "Healthcare Update: Breakthrough Discovery",
+      "category": "Health",
+      "datePosted": "2023-09-29"
+    }
+  ]
+  
